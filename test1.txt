@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B26B-D338
+
+ Directory of C:\Users\bdiplus_admin\Desktop\GitProject
+
+01/30/2019  02:43 PM    <DIR>          .
+01/30/2019  02:43 PM    <DIR>          ..
+01/30/2019  02:43 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  850,060,169,216 bytes free
